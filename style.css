@@ -1,0 +1,21 @@
+body{
+	background-color: #f6f6f6
+}
+div.surrounding{
+	
+}
+div.story{
+
+}
+a:link{
+	text-decoration: none;
+	color: #010101;
+}
+a:visited{
+	text-decoration: none;
+	color: #33cc33;
+}
+a:hover{
+	text-decoration: none;
+	color: #80b3ff;
+}
