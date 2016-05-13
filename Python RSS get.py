@@ -31,9 +31,8 @@ def main():
 	</head>
 	<body>
 		<h2>List of Articles from RSS Feeds:</h2>
-		<h4 onclick="randomArticle();">Click Me For a Random Article</h4>
+		<button onclick="randomArticle();">Click Me For a Random Article</button>
 		<h5 id="randomLinkTitle">A Random Article Will Appear Here when you click the text above.</h5>
-		<h5 id="randomLink">A Random Link Will Appear Here when you click the text above.</h5>
 	'''
 	HTMLDocEnd = '''
 	</body>
